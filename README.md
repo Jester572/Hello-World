@@ -10,12 +10,11 @@ The purpose of this software is to print hello world a specified number of times
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The main tool that was used in development of this program was Visual Studio Code
 
-{Describe the programming language that you used}
+The programming language that was used was Python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Youtube-What is markdown](https://www.youtube.com/watch?v=5JwKbeKnhMk&t=430s)
 * [markdownguide.org](https://www.markdownguide.org/cheat-sheet/)
