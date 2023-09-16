@@ -1,8 +1,10 @@
 # Overview
 
+Welcome to Hello_World.py
+
 Creating a simple "hello world" program to print to the console "hello world" as many times as the user wants.
 
-This software prints to the console the text, "hello world!!"
+This software prints to the console the text, "hello world!!" 
 
 The purpose of this software is to print hello world a specified number of times.
 
